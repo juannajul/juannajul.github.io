@@ -300,10 +300,8 @@
     }
 }
 
-@media (max-width: 440px){
+@media (max-width: 580px){
     .card {
         width: 16%;
-        margin: 1.45%;
-            margin-right: 1.45%;
     }
 }
