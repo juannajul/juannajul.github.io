@@ -288,7 +288,9 @@
     .card .category{
         font-size: 13px;
     }
-
+    .card {
+            width: 16%;
+        }
     #articles .data{
         float: none;
         margin: -10px;
@@ -297,11 +299,5 @@
 
     #articles article h4{
         margin-top: 20px;
-    }
-}
-
-@media (max-width: 580px){
-    .card {
-        width: 16%;
     }
 }
